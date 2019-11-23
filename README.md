@@ -1,2 +1,1 @@
-Hello edited remotely
-+ added locally
+new local
